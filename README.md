@@ -34,9 +34,9 @@ with open("res/KeyPoints.json") as f:
     df = json.load(f)
 HandAnnotation().Display(df)
 ```
-	* It will show you the keypoints you labeled
-	* Different parts are in different colors
+* It will show you the keypoints you labeled
+* Different parts are in different colors
 
 ## results
-![](results/q1_1.jpg)
-![](results/q1_2.jpg)
+![](result/q1_1.jpg)
+![](result/q1_2.jpg)
