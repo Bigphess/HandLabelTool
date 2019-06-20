@@ -38,5 +38,5 @@ HandAnnotation().Display(df)
 	* Different parts are in different colors
 
 ## results
-![](q1_1.jpg)
-![](q1_2.jpg)
+![](results/q1_1.jpg)
+![](results/q1_2.jpg)
